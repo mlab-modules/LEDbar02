@@ -1,4 +1,5 @@
-description: null
+description: There are 8 LEDs drived by simple shift register. Construction is useful
+  to indicate status on small robots. SMD version
 github_branch: LEDbar02A
 github_repo: LEDbar02
 github_url: https://github.com/mlab-modules/LEDbar02
@@ -9,4 +10,6 @@ mark: 50
 tags:
 - mlab
 - mlab-module
+- ledbar
+- mlab-ui
 title: LEDbar02

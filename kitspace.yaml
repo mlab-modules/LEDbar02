@@ -5,4 +5,5 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/LEDbar02
-summary: null
+summary: There are 8 LEDs drived by simple shift register. Construction is useful
+  to indicate status on small robots. SMD version
